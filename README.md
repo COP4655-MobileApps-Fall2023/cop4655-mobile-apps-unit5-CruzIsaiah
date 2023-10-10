@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-
+https://submissions.us-east-1.linodeobjects.com/ios102/nGwlSZID.gif
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
